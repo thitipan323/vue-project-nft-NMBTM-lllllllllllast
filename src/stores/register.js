@@ -1,0 +1,1 @@
+export const accounts = [{ name_: 'a', phon: 's', jung: 'd', Aum: 'f', postal_code: 'g', email: 'h', more_detail: 'j' }];
